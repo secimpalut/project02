@@ -3,8 +3,8 @@ package firstPackage;
 public class FirstClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("First Commit from local master branch");
+		System.out.println("Second Commit from local master");
 	}
 
 }
